@@ -10,6 +10,7 @@
 #  - 프로그램 번호 입력 -> 실행
 #################################
 
+# TEST github
 import sys
 import service.BookService as bookService
 import service.MemberService as memberService
